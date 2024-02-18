@@ -1,0 +1,33 @@
+.big-card{
+    width: 100%;
+    max-width: 40vmin;
+    height: 73vmin;
+    background: #7FA4D2;
+    border-radius: 15px;
+    margin: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative; 
+}
+
+.big-card>img{
+    height: 70vmin;
+    filter: drop-shadow(10px 10px 5px white);
+}
+
+.big-card-text{
+    display: flex;
+    align-items: center;
+    column-gap: 10px;
+    position: absolute;
+    top: 25%; 
+}
+
+.big-card-text img{
+    height: 5vmin;
+}
+
+.big-card-text h3{
+    color: #0065F2;
+}

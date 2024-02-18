@@ -1,0 +1,42 @@
+footer{
+    width: 100%;
+    max-width: 80vmax;
+    height: 40vmin;
+    background: #7FA4D2;
+    border-radius: 15px 15px 0 0;
+    margin: 20px auto 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    column-gap: 20px;
+    color: white;
+}
+
+.Fish{
+    color: orange;
+}
+
+.footerLogo{
+    font-size: 25px;
+}
+
+.first ul .firstLi{
+    font-size: 18px;
+    font-weight: bolder;
+    color: #0065F2;
+}
+
+.first ul li{
+    list-style: none;
+    font-size: 16px;
+}
+
+.contact h3{
+    color: #0065F2;
+}
+
+.contact input{
+    padding: 10px 20px;
+    border-radius: 15px;
+}
+

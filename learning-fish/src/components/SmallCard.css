@@ -1,0 +1,33 @@
+.small-card{
+    width: 100%;
+    max-width: 40vmin;
+    min-height: 35vmin;
+    background: #7FA4D2;
+    border-radius: 15px;
+    margin: 20px;
+}
+
+.header{
+    display: flex;
+}
+
+
+.header img{
+    height: 5vh;
+    padding: 12px;
+}
+
+.header h3{
+    padding: 12px 0;
+    font-weight: bolder;
+    color: #0065F2;
+}
+
+
+.small-card p{
+    color: #fff;
+    font-size: 23px;
+    text-align: center;
+    font-weight: lighter;
+    padding: 5px 8px;
+}

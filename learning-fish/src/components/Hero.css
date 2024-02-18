@@ -1,0 +1,27 @@
+.hero{
+    width: 100%;
+    max-width: 80vmax;
+    margin: 70px auto;
+    display: flex;
+    align-items: center;
+}
+
+.text{
+    flex: 50%;
+    padding-left: 30px;
+    /* text-align: center; */
+}
+
+.first{
+    font-size: 56px;
+    color: #fff;
+}
+
+.second{
+    font-size: 24px;
+    color: #ffffffa8;
+}
+
+.fish-img{
+    flex: 50%;
+}
